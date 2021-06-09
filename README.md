@@ -1,4 +1,4 @@
-# agenda_contatos
+# Contacts directory
 
 A new Flutter project.
 
